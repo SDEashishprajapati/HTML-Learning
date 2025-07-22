@@ -24,7 +24,7 @@ These programs cover the foundation of HTML:
 
 ---
 
-## 📝HTML Level 2 – Forms and Tables
+## 📝HTML Level 2 – Forms 
 
 These programs focus on HTML forms and tables:
 1. **Program 1:** form-action.html
