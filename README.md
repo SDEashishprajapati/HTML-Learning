@@ -6,7 +6,7 @@ Each level contains programs based on one concept or difficulty level.
 
 ---
 
-## 🔰 HTML Level 1 – Basics
+## 📝 HTML Level 1 – Basics
 
 These programs cover the foundation of HTML:
 
@@ -39,6 +39,20 @@ These programs focus on HTML forms and tables:
 10. **Program 10:** fieldset-legend.html 
 
 ---
+
+ ## 📝HTML Level 3 – Semantic & Structural HTML  
+These programs focus on the structure, layout, and semantics of HTML documents:
+
+Program 1: inline-vs-block.html  
+Program 2: div-element.html  
+Program 3: span-element.html  
+Program 4: hr-tag.html  
+Program 5: sup-sub-tags.html  
+Program 6: semantic-markup.html  
+Program 7: semantic-tags.html  
+Program 8: html-entities.html  
+Program 9: emmet-example.html
+
 
 ## 🚀 Tools Used
 
