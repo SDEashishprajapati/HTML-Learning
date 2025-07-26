@@ -53,6 +53,14 @@ Program 7: semantic-tags.html
 Program 8: html-entities.html  
 Program 9: emmet-example.html
 
+---
+
+## 🌐 Personal Portfolio Website
+
+This is my personal portfolio website built using only **HTML**.  
+It showcases my education, skills, contact info, and career objective as an aspiring Web Developer.
+
+---
 
 ## 🚀 Tools Used
 
